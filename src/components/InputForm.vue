@@ -119,7 +119,7 @@ export default {
 
       firstPage.drawImage(image, {
         x: width / 2 - 144,
-        y: height - 510 - 170 - 20,
+        y: height - 510 - 170 - 30,
         width: 288,
         height: 170
       });
